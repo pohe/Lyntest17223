@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lyntest17223", "Lyntest17223\Lyntest17223.csproj", "{FBBBF8C0-A899-445B-8EE7-B3D6443FF797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBBBF8C0-A899-445B-8EE7-B3D6443FF797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBBBF8C0-A899-445B-8EE7-B3D6443FF797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBBBF8C0-A899-445B-8EE7-B3D6443FF797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBBBF8C0-A899-445B-8EE7-B3D6443FF797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDBAC901-60C4-4EA5-A8B4-0A8FB45D73EF}
+	EndGlobalSection
+EndGlobal
